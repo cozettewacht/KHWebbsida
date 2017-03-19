@@ -24,18 +24,17 @@ h1
    bottom: 28px; 
    width: 100%; 
    color: #f8f8ff; 
-   font-size: 30px;
    text-align: center; 
+   font-family: 'Oxygen', sans-serif;
 }
 .why-heading
 {
-	font-size: 25px;
-	font-style: times;
+	font-family: 'Oxygen', sans-serif;
 }
 .why-text
 {
 	font-size: 15px;
-	font-style: times;
+	font-family: 'Oxygen', sans-serif;
 	padding: 11px;
 
 }
@@ -61,6 +60,7 @@ h1
     float: left;
     margin-left: 5.6%;
     margin-right: 5.6%;
+    font-family: 'Oxygen', sans-serif;
 }
 .om-oss
 {
@@ -68,15 +68,13 @@ h1
 }
 h3
 {
-	font-style: times;
-	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
 	text-align: center;
 	padding-top: 65px;
 }
 .omoss-text
 {
-	font-style: times;
-	font-size: 15px;
+	font-family: 'Oxygen', sans-serif;
 	text-align: center;
 	padding-right: 100px;
 	padding-left: 100px;
